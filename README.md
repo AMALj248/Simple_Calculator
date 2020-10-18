@@ -1,4 +1,4 @@
-# simple_calculator
+# Simple_Calculator
 
 A simple Flutter Calculator
 
